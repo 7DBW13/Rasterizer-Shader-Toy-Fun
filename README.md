@@ -40,8 +40,6 @@ Several kinds of refection models are embedded.
 
 ![](img/rasterizer/toon.bmp)
 
-------------------------------------------------------------------------------------------
-
 ## Shader
 
 ### Interactive Camera
